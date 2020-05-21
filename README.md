@@ -10,7 +10,7 @@ Mock-up dataset based on trends found in real world case studies; 8965 instances
 
 ### Correlation Matrix
 
-![alt text](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+![alt text](https://github.com/sandeepan1999/Minimizing-Churn-Rate/blob/master/Correlation_matrix.png)
 
 ### Confusion Matrix
 
